@@ -1,7 +1,4 @@
-#Decompiled by MR.K7C8NG
-import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
-from multiprocessing.pool import ThreadPool
-def loginSC():
+#Decompiled by cyberlimit
 	os.system('clear')
 	print"\033[1;97mSilahkan login SC nya dulu bosque\n"
 	username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
